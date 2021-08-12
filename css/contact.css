@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+/* html, */
+body {
+  background-image: url(../img/underground.jpg);
+  background-size: cover;
+  font-family: "Press Start 2P", cursive;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-left: 20px;
+}
+/* ------------------------ */
+/* .demo-2 {
+  --color-text: #aaa;
+  --color-bg: #000;
+  --color-link: #1c1cc9;
+  --color-link-hover: #aaa;
+  --color-info: #1c1cc9;
+  --glitch-width: 100vw;
+  --glitch-height: 120vh;
+  --gap-horizontal: 10px;
+  --gap-vertical: 5px;
+  --color-title: #fff;
+  --time-anim: 4s;
+  --delay-anim: 2s;
+  --blend-mode-1: none;
+  --blend-mode-2: none;
+  --blend-mode-3: none;
+  --blend-mode-4: overlay;
+  --blend-mode-5: overlay;
+  --blend-color-1: transparent;
+  --blend-color-2: transparent;
+  --blend-color-3: transparent;
+  --blend-color-4: #fb909a;
+  --blend-color-5: #1c1cc9;
+}
+
+.glitch {
+  position: -webkit-sticky;
+  top: 0;
+  left: 0;
+  width: var(--glitch-width);
+  height: var(--glitch-height);
+  overflow: hidden;
+} */
+
+/* .glitch__img {
+  position: -webkit-sticky;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200vh;
+
+  position: sticky;
+  top: calc(-1 * var(--gap-vertical));
+  left: calc(-1 * var(--gap-horizontal));
+  width: calc(100% + var(--gap-horizontal) * 2);
+  height: calc(120% + var(--gap-vertical) * 2);
+  background: transparent url(https://i.imgur.com/cpJAqX1.jpg) no-repeat 50% 0;
+  background-size: cover;
+  transform: translate3d(0, 0, 0);
+  background-blend-mode: var(--blend-mode-1);
+  background-attachment: sticky;
+  opacity: 0.2;
+  visibility: visible;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} 
+*/
